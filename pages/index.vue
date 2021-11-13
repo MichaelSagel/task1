@@ -3,7 +3,6 @@
 
         <headerArea/>
 
-
     </div>
 </template>
 
