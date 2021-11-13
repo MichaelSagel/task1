@@ -1,0 +1,18 @@
+.h1{
+    margin: 0;
+}
+
+.headerAreaContent{
+    font-size: 28px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.header-button{
+    color: #000;
+    text-decoration: underline;
+    text-decoration-color: #CF4940;
+}
