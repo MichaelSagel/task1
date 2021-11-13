@@ -1,9 +1,9 @@
 <template>
-    <div class="headerAreaContent">
+    <div class="contentArea">
 
-        <h1 class="h1">
+        <div class="contentText">
             Modal Content
-        </h1>
+        </div>
         
         <NuxtLink
         to="/" 
@@ -16,5 +16,5 @@
 </template>
 
 <style>
-  @import './../assets/styles/headerArea.css';
+  @import './../assets/styles/contentArea.css';
 </style>
