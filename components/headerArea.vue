@@ -1,11 +1,11 @@
 <template>
-    <div class="headerAreaContent">
+    <div class="header-area">
 
-        <h1 class="h1">
-            Modal Content
-        </h1>
+      <h1 class="h1">
+        Modal Content
+      </h1>
         
-        <NuxtLink
+      <NuxtLink
         to="/" 
         class="header-button"
       >

@@ -1,21 +1,25 @@
 <template>
-      <div class="container">
+  <div class="container">
 
-        <headerArea/>
+    <headerArea/>
 
-      <contentArea/>
+    <contentArea/>
 
-    </div>
+    <footerArea/>
+
+  </div>
 </template>
 
 <script>
   import headerArea from '../components/headerArea.vue';
   import contentArea from '../components/contentArea.vue';
+  import footerArea from '../components/footerArea.vue';
 
   export default {
     components: {
       headerArea,
-      contentArea
+      contentArea,
+      footerArea
     }
   }
 </script>
